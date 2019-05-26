@@ -93,3 +93,7 @@ Thanks to the Third Party Libs
 ---------------  
 [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)   
 [Pytorch](https://github.com/pytorch/pytorch)   
+
+## 李剑备注：
+1.https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247487595&idx=1&sn=6b899f56d44d54cdeebe4ae051df0c7c&chksm=f9a262e4ced5ebf27917b2d72a23fc9ae86984a86c55b447676e0df6b0c92b18096fcd558aea&scene=21#wechat_redirect
+CVPR2019 | 超越Mask R-CNN！华科开源图像实例分割新方法MS R-CNN
